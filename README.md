@@ -1,1 +1,3 @@
--Developed a web-based platform for a bus service business, enabling users to browse routes, check schedules, and book tickets online. Focused on responsive design and smooth user experience.
+BizzyBus Web Development
+
+Developed a web-based platform for a bus service business, enabling users to browse routes, check schedules, and book tickets online. Focused on responsive design and smooth user experience.
